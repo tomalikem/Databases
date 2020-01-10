@@ -1,0 +1,14 @@
+Wed Nov 27 11:57:47 CET 2019 : Serwer sieciowy Apache Derby - 10.14.2.0 - (1828579) uruchomiony i gotowy do zaakceptowania po³¹czeñ na porcie 1527 w {3} 
+----------------------------------------------------------------
+Wed Nov 27 11:57:49 CET 2019:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579) systemu Derby: instancja a816c00e-016e-ac82-8a9f-00005d4e11ea
+w katalogu bazy danych D:\Projects\semestr 5\Bazy Danych\Hibernate\DBMS Derby\bin\MTomalikJPA sun.misc.Launcher$AppClassLoader@610455d6 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=D:\Projects\semestr 5\Bazy Danych\Hibernate\DBMS Derby\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\Projects\semestr 5\Bazy Danych\Hibernate\DBMS Derby\bin
+Uruchomiono program ³aduj¹cy klasê bazy danych - derby.database.classpath=''
